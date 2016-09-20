@@ -1,1 +1,1 @@
-# gcd_week4
+There is only one script as per the exercise instructions.  It simply performs the data merging, column subsetting, and aggregation described in CodeBook.md.
